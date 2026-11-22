@@ -1,0 +1,7 @@
+*.pdf
+FireShot*.png
+eksamik*.txt
+.analysis/
+node_modules/
+dist/
+*.log
